@@ -1,0 +1,13 @@
+DevExpress.Data.v20.1.dll Adlı Dosyayı Kopyalayın Ve Aşagıdaki Dosya Konumundaki Dosyalar İle Degiştirin:
+
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\DevExpress.Data.v20.1
+
+C:\Program Files (x86)\DevExpress 20.1\Components\Bin\Framework
+
+C:\Program Files (x86)\DevExpress 20.1\Components\Bin\Standard
+
+Not: Visual Studio 2017 Sürümünü Kullanınız Windows 11'de Crack Dosyaları Stabil Şekilde Çalışamamaktadır,
+Önceden DevExpress Deneme Sürümünü Yüklemediginizden Emin Olunuz İyi Çalışmalar.
+Virus Total Tarama Raporu:
+https://www.virustotal.com/gui/file/782cbfbf6ee4bf444188eb6465680d3bed3e2b89e3aca6d040f2d055b963e261
+Emirhan Yerebasmaz  
